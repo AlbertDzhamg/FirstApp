@@ -62,3 +62,10 @@ C:\Users\dzham\source\repos\FirstApp\FirstApp\obj\Debug\net5.0\FirstApp.dll
 C:\Users\dzham\source\repos\FirstApp\FirstApp\obj\Debug\net5.0\ref\FirstApp.dll
 C:\Users\dzham\source\repos\FirstApp\FirstApp\obj\Debug\net5.0\FirstApp.pdb
 C:\Users\dzham\source\repos\FirstApp\FirstApp\obj\Debug\net5.0\FirstApp.genruntimeconfig.cache
+C:\Users\dzham\source\repos\FirstApp\FirstApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\dzham\source\repos\FirstApp\FirstApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dzham\source\repos\FirstApp\FirstApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dzham\source\repos\FirstApp\FirstApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dzham\source\repos\FirstApp\FirstApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dzham\source\repos\FirstApp\FirstApp\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dzham\source\repos\FirstApp\FirstApp\bin\Debug\net5.0\appsettings.json
